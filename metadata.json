@@ -1,0 +1,7 @@
+{
+  "name": "SANFRUIT - Saigon Luxury Fruit Gift Atelier",
+  "description": "Exquisite fruit gift hampers, artisanal gateaux, and botanical pairings in Ho Chi Minh City with express 2H delivery and handwritten calligraphy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
